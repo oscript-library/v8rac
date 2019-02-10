@@ -1,4 +1,4 @@
 *.xml
 *.ospx
-
+oscript_modules/*
 coverage/*
